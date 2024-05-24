@@ -160,7 +160,7 @@
 <a href="https://www.instagram.com/melistonhoney" target="_blank"><img src="icons8-instagram-96.png" alt="Instagram"></a>
 
 <!-- Facebook -->
-<a href="https://www.facebook.com/melistonhoney" target="_blank"><img src="facebook icon small.png" alt="Facebook"></a>
+<a href="https://www.facebook.com/melistonhoney" target="_blank"><img src="icons8-facebook-96.png" alt="Facebook"></a>
 
 </div>
 
