@@ -74,8 +74,9 @@
 <body>
 
 <header>
-    <img src="logo.png" alt="Μελισσοκομική Επιχείρηση Logo">
-    <h1>Μελισσοκομική Επιχείρηση</h1>
+    <img src="meliston logo.png" alt="MelistonLogo">
+    <h1>MELISTON</h1>
+    <p>Καλωσήρθατε στο MELISTON! Μαζί θα ανακαλύψουμε τον κόσμο των μελισσών!</p>
 </header>
 
 <nav>
