@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+</head>
+<body>
+    <h1>Σχετικά με εμάς</h1>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+    <p>To MELISTON δημιουργήθηκε στην Τήνο, το 2011 η σχέση όμως της οικογένειάς μας με τη μελισσοκομία μετρά σχεδόν 100 χρόνια, όταν ο προπάππους του Αντώνη Δελλατόλα, ξεκίνησε από τους πρώτους τη μελισσοκομία στο νησί της Τήνου. Οι γνώσεις και η αγάπη για τις μέλισσες πέρασαν από γενιά σε γενιά και το 2011 γεννήθηκε το MELISTON.</p>
+</body>
+</html>
