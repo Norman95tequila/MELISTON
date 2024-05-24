@@ -7,7 +7,7 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <style>
         body {
-            font-family: Raleway, sans-serif;
+            font-family: Proxima Nova, Arial;
             margin: 0;
             padding: 0;
             background-color: ##F5EFEE;
@@ -104,13 +104,14 @@
             <p>Κάτω από τον ελληνικό ήλιο, μέσα στη δροσιά του Αιγαίου και στους καλύτερους θυμαρότοπους της Τήνου, παράγεται το μέλι MELISTON. Αυτούσιο από τη μέλισσα, το μέλι συλλέγεται εδώ και τρεις γενιές από την οικογένειά μας και χωρίς καμία επεξεργασία φτάνει στα χέρια σας αγνό, αρωματικό και πεντανόστιμο. 
             Η αρμονία της φύσης, η ευφυΐα των μελισσών και το ιδανικό ελληνικό κλίμα συνταντήθηκαν με το μεράκι και την πολυετή εμπειρία μας για να δημιουργήσουν ένα εξαιρετικό προϊόν υψηλής διατροφικής αξίας, που φημίζεται για τις αντισηπτικές και αντιοξειδωτικές του ιδιότητες. Άλλωστε, η περιορισμένη μας παραγωγή είναι και η εγγύηση, ότι κάθε βαζάκι MELISTON είναι πραγματικά άριστον.</p>
             
-        </div>
+     <div class="container" id="products">
+    <h2>Προϊόντα</h2>
+    <div class="products">
         <div class="product">
-            <h3>Μέλι Ερείκης Τήνου</h3>
-        <div id="image-container">
-    <img src="ereikis.jpg" alt="Heather Honey">
+            <h3>Θυμαρίσιο Μέλι Τήνου</h3>
+            <div id="image-container">
+    <img src="ereikis.jpg" alt="thyme honey">
 </div>
-
             <p>Κάτω από τον ελληνικό ήλιο, μέσα στη δροσιά του Αιγαίου και στους καλύτερους ερεικότοπους της Τήνου, παράγεται το μέλι ερείκης MELISTON. Αυτούσιο από τη μέλισσα, το μέλι συλλέγεται εδώ και τρεις γενιές από την οικογένειά μας και χωρίς καμία επεξεργασία φτάνει στα χέρια σας αγνό, αρωματικό και πεντανόστιμο. 
             Η αρμονία της φύσης, η ευφυΐα των μελισσών και το ιδανικό ελληνικό κλίμα συνταντήθηκαν με το μεράκι και την πολυετή εμπειρία μας για να δημιουργήσουν ένα εξαιρετικό προϊόν υψηλής διατροφικής αξίας, που φημίζεται για τις αντισηπτικές και αντιοξειδωτικές του ιδιότητες. Άλλωστε, η περιορισμένη μας παραγωγή είναι και η εγγύηση, ότι κάθε βαζάκι MELISTON είναι πραγματικά άριστον.</p>
         </div>
@@ -149,9 +150,14 @@
 <div class="contact" id="contact">
     <h2>Επικοινωνία</h2>
     <p>Τηλέφωνο: 123-456-7890</p>
-    <p>Email: info@melissokomiki-epixeirisi.gr</p>
+    <p>Email: info@melistonhoney.com</p>
     <div>
-        <a href="https://www.facebook.com" target="_blank">
+       <!-- Instagram -->
+<a href="https://www.instagram.com/melistonhoney" target="_blank"><img src="instagram-icon.png" alt="Instagram"></a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/melistonhoney" target="_blank"><img src="facebook-icon.png" alt="Facebook"></a>
+
             <img src="facebook-icon.png" alt="Facebook" style="width:30px">
         </a>
         <a href="https://www.instagram.com" target="_blank">
@@ -161,7 +167,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Μελισσοκομική Επιχείρηση</p>
+    <p>&copy; 2024 MELISTON</p>
 </footer>
 
 </body>
