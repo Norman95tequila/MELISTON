@@ -128,7 +128,7 @@
             <img src="beehive.JPG" alt="Φωτογραφία 1" style="width:100%">
         </div>
         <div class="photo">
-            <img src="apiaryfir.JPG" alt="Φωτογραφία 2" style="width:100%">
+            <img src="apiaryfir.jpeg" alt="Φωτογραφία 2" style="width:100%">
         </div>
        <div class="photo">
             <img src="beecomb.JPG" alt="Φωτογραφία 2" style="width:100%">
