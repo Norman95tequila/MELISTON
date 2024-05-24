@@ -79,11 +79,11 @@
 </header>
 
 <nav>
-    <a href="#about">Ποιοι είμαστε</a>
-    <a href="#products">Προϊόντα</a>
-    <a href="#gallery">Φωτογραφίες & Βίντεο</a>
-    <a href="#articles">Άρθρα & Συνταγές</a>
-    <a href="#contact">Επικοινωνία</a>
+      <li><a href="index.html" style="display: none;">Αρχική</a></li>
+        <li><a href="products.html">Προϊόντα</a></li>
+        <li><a href="about.html">Βιογραφικό</a></li>
+        <li><a href="contact.html">Επικοινωνία</a></li>
+        <li><a href="articles.html">Άρθρα</a></li>
 </nav>
 
 <div class="container" id="about">
