@@ -125,12 +125,13 @@
     <h2>Φωτογραφίες & Βίντεο</h2>
     <div class="gallery">
         <div class="photo">
-            <img src="photo1.jpg" alt="Φωτογραφία 1" style="width:100%">
+            <img src="beehive.JPG" alt="Φωτογραφία 1" style="width:100%">
         </div>
         <div class="photo">
-            <img src="photo2.jpg" alt="Φωτογραφία 2" style="width:100%">
+            <img src="apiaryfir.JPG" alt="Φωτογραφία 2" style="width:100%">
         </div>
-        <!-- Προσθέστε περισσότερες φωτογραφίες εδώ -->
+       <div class="photo">
+            <img src="beecomb.JPG" alt="Φωτογραφία 2" style="width:100%">
     </div>
 </div>
 
@@ -156,12 +157,11 @@
     
     <div>
        <!-- Instagram -->
-<a href="https://www.instagram.com/melistonhoney" target="_blank"><img src="instagram-icon.png" alt="Instagram"></a>
+<a href="https://www.instagram.com/melistonhoney" target="_blank"><img src="instagram.png" alt="Instagram"></a>
 
 <!-- Facebook -->
-<a href="https://www.facebook.com/melistonhoney" target="_blank"><img src="facebook-icon.png" alt="Facebook"></a>
-<div id="image-container">
-    <img src="facebook icon small.jpg" alt="Facebook">
+<a href="https://www.facebook.com/melistonhoney" target="_blank"><img src="facebook icon small.png" alt="Facebook"></a>
+
 </div>
 
 
